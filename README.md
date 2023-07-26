@@ -1,8 +1,6 @@
 # NCKU
 | Semester | Courses |
 | --- | --- |
-| 2020 Fall | Introduction to Computers |
-| 2021 Spring | Programming Design |
 | 2021 Spring | [Creative Programming Application](https://github.com/disneyyy/NCKUCSIE-Creative-Programming-2021) |
 | 2021 Spring | [IDesign Workshop](https://github.com/disneyyy/life) |
 | 2021 Fall | [Window Programming](https://github.com/disneyyy/CsharpFinal) |
