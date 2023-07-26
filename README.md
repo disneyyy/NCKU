@@ -4,7 +4,7 @@
 | 2020 Fall | Introduction to Computers |
 | 2021 Spring | Programming Design |
 | 2021 Spring | Creative Programming Application |
-| 2021 Spring | [IDesign](https://github.com/disneyyy/life) |
+| 2021 Spring | [IDesign Workshop](https://github.com/disneyyy/life) |
 | 2021 Fall | [Window Programming](https://github.com/disneyyy/CsharpFinal) |
 | 2022 Spring | Computer Organization |
 | 2022 Spring | Probability and Statistics |
