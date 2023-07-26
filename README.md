@@ -7,7 +7,7 @@
 | 2021 Spring | [IDesign Workshop](https://github.com/disneyyy/life) |
 | 2021 Fall | [Window Programming](https://github.com/disneyyy/CsharpFinal) |
 | 2022 Spring | Computer Organization |
-| 2022 Spring | Probability and Statistics |
+| 2022 Spring | [Probability and Statistics](https://github.com/disneyyy/NCKUCSIE-Probability-2022/tree/main) |
 | 2022 Fall | [Operating System](https://github.com/disneyyy/NCKUCSIE-OS-2022) |
 | 2022 Fall | [Experimant on Digital System](https://github.com/disneyyy/Fight_zombie) |
 | 2022 Fall | [Microprocessor Principles and Applications](https://github.com/disneyyy/microprocessor_final_project) |
