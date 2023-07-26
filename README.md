@@ -13,5 +13,5 @@
 | 2022 Fall | [Microprocessor Principles and Applications](https://github.com/disneyyy/microprocessor_final_project) |
 | 2022 Fall | [Theory of Computation](https://github.com/disneyyy/ComputationTheoryLineBot2022) |
 | 2023 Spring | [Multimedia Systems and Applications](https://github.com/disneyyy/Histogram-Equalization-and-Edge-detection) |
-| 2023 Spring | [Computer System Administration](https://github.com/disneyyy/NASA_hw2) |
+| 2023 Spring | [Computer System Administration](https://github.com/disneyyy/NCKUCSIE-SA-2023) |
 | 2023 Spring | [Compiler Construciton](https://github.com/disneyyy/NCKUCSIE-Compiler-2023) |
