@@ -7,7 +7,7 @@
 | 2022 Spring | [Computer Organization](https://github.com/disneyyy/NCKUCSIE-CO-2022) |
 | 2022 Spring | [Probability and Statistics](https://github.com/disneyyy/NCKUCSIE-Probability-2022) |
 | 2022 Fall | [Operating System](https://github.com/disneyyy/NCKUCSIE-OS-2022) |
-| 2022 Fall | [Experimant on Digital System](https://github.com/disneyyy/Fight_zombie) |
+| 2022 Fall | [Experiment on Digital System](https://github.com/disneyyy/Fight_zombie) |
 | 2022 Fall | [Microprocessor Principles and Applications](https://github.com/disneyyy/microprocessor_final_project) |
 | 2022 Fall | [Theory of Computation](https://github.com/disneyyy/ComputationTheoryLineBot2022) |
 | 2023 Spring | [Multimedia Systems and Applications](https://github.com/disneyyy/Histogram-Equalization-and-Edge-detection) |
